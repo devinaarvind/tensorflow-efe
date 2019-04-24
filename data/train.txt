@@ -1,0 +1,5 @@
+"m.010vxf	/people/place_of_interment/interred_here	m.07l_qw"		
+"m.0hzp2pq	/education/educational_institution/colors	m.09q2t"		
+"m.0jz710	/film/producer/film	m.0t53h46"		
+"m.0bpc22h	/base/skosbase/skos_concept/narrower	m.0bp683p"		
+"m.018tg1v	/music/recording/artist	m.02jqjm"
